@@ -7,4 +7,4 @@
 # https://docs.netlify.com/routing/redirects/redirect-options/#http-status-codes
 /v1/links	/src/links/v1/providers.json	200!
 /v1/info	/src/info/v1/info.json	200!
-/v1/versions	/src/versions.csv	200!
+/versions	/src/versions.csv	200!
