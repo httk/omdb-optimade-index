@@ -2,4 +2,4 @@
 
 # OPTIMADE Providers Index Meta-Database for the Open Materials Database
 
-This is the index meta-database for the [Open Materials Database](https://openmaterialsdb.se).
+This is the index meta-database for the [Open Materials Database](http://openmaterialsdb.se).

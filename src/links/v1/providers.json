@@ -14,8 +14,8 @@
          "attributes" : {
             "name": "Open Materials Database (omdb) production database",
             "description": "This is the main production version of the Open Materials Database",
-            "base_url": "https://optimade.openmaterialsdb.se/v1",
-            "homepage": "https://openmaterialsdb.se",
+            "base_url": "http://optimade.openmaterialsdb.se/v1",
+            "homepage": "http://openmaterialsdb.se",
             "link_type": "child"
          }
       },
